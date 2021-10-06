@@ -1,5 +1,5 @@
 {
-  "name": "XinzBot",
+  "name": "BoT-Chromosome",
   "version": "1.0.0",
   "description": "Ga ada",
   "main": "main.js",
@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url": "git+https://github.com/Botchromosome/BoT-Ajur"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url": "https://github.com/Botchromosome/BoT-Ajur"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "homepage": "https://github.com/Botchromosome/BoT-Ajur#readme"
 }
